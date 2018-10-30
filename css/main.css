@@ -102,11 +102,15 @@ footer li {
 	margin: 0 1em;
 	text-align: -webkit-match-parent;
 	font-family: Roboto;
-	font-size: 12px;
+	font-size: 15px;
 	color: #424242;
 }
 
 footer li>a {
+	color: brown;
+}
+
+footer li>p{
 	color: brown;
 }
 
@@ -123,7 +127,7 @@ footer li>a {
 	border-radius: 10px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 5px;
+	padding: 2%;
 }
 
 figure :hover {
